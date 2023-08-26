@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 🚀 Skills
 - Proficient in: `Java` `Javascript`
-- Proficient in Back End frameworks such as: `Spring boot` `Express` `Loopback3`
+- Proficient in Back End frameworks such as: `Spring boot` `Quarkus` `Express` `Loopback3`
 - Proficient in using frameworks for user interfaces such as: `React` `Thymeleaf`
   
 
