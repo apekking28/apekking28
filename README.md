@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 # 🌱 What I'm currently learning
 - Strengthened my `Java` knowledge in using `Microsrvices` architecture.
-- Learn Containerization technologies: `Docker`
+- Learning Containerization technologies: `Docker`
+- Learning `Python` 
 
 # 💼 Experience
 The one I made as a freelancer was:
