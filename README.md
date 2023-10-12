@@ -39,7 +39,7 @@ for more informasion you can check my github repository:[My-repo](https://github
 - Email: ilham.firmansyah280804@gmail.com
 - Phone number (Whatsapp): +62 85881642770
 - [Linkedin](https://www.linkedin.com/in/ilham-firmansyah-61a91b20b/)
-- [Leetcode](https://leetcode.com/Apekking/)
+- [Leetcode](https://leetcode.com/Ilham28/)
 - [HackerRank](https://www.hackerrank.com/apekking28?hr_r=1)
   
 # 📈 GitHub Stats
