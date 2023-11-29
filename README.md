@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Ilham Firmansyah
-With more than a year of specialized programming experience, I have mastered technologies such as Spring
-Boot, Quarkus, Express, SQL and NoSQL databases. I have proven my skills as a software engineer at one of
-the IT consulting companies in Indonesia, where I honed my skills in software design, troubleshooting, and
-implementation. My commitment to continuous learning, coupled with a solid foundation in algorithms and
-system design, positions me as a results-oriented professional ready to provide innovative solutions to advance
-your technology initiatives.
+  With more than a year of specialized programming experience, I have mastered technologies such as Spring
+  Boot, Quarkus, Express, SQL and NoSQL databases. I have proven my skills as a software engineer at one of
+  the IT consulting companies in Indonesia, where I honed my skills in software design, troubleshooting, and
+  implementation. My commitment to continuous learning, coupled with a solid foundation in algorithms and
+  system design, positions me as a results-oriented professional ready to provide innovative solutions to advance
+  your technology initiatives.
 
 <!--
 **apekking28/apekking28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +42,8 @@ for more informasion you can check my github repository:[My-repo](https://github
 
 # 📫 My contact:
 - Email: ilham.firmansyah280804@gmail.com
-- Phone number (Whatsapp): +62 85881642770
+- Phone number: +62 85881642770
+- [Whatsapp](https://wa.link/h62c2i)
 - [Linkedin](https://www.linkedin.com/in/ilham-firmansyah-61a91b20b/)
 - [Leetcode](https://leetcode.com/Ilham28/)
 - [HackerRank](https://www.hackerrank.com/apekking28?hr_r=1)
