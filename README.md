@@ -50,7 +50,7 @@ for more informasion you can check my github repository:[My-repo](https://github
 # 📈 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=apekking28&show_icons=true&theme=radical)
 
-⭐️ From Ilham Firmansyah (https://github.com/apekking28)
+⭐️ From [Ilham Firmansyah](https://github.com/apekking28)
 
 
 
