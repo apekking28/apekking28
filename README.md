@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ilham Firmansyah
 With more than a year of specialized programming experience, I have mastered technologies such as Spring
-Boot, Quarkus, Express, and SQL and NoSQL databases. I have proven my skills as a software engineer at one of
+Boot, Quarkus, Express, SQL and NoSQL databases. I have proven my skills as a software engineer at one of
 the IT consulting companies in Indonesia, where I honed my skills in software design, troubleshooting, and
 implementation. My commitment to continuous learning, coupled with a solid foundation in algorithms and
 system design, positions me as a results-oriented professional ready to provide innovative solutions to advance
